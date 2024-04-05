@@ -21,3 +21,7 @@
 }
 
 
+.newContainer{
+    border: solid red;
+    padding: 1em;
+}
