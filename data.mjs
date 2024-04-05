@@ -11,6 +11,8 @@ from "./helper.mjs";
 import { mySprints }
 from "./news.mjs"
 
+import {malia}
+from "./planet.mjs"
 
 let testEmployee = new Employee("Chester Tester", "@biz.gov", "000-000-0000");
 
@@ -29,6 +31,7 @@ fetchMe();
 grabSprints();
 getPhotos();
 mySprints();
+malia();
 
 
 //---------------------------------------[Iniialized_Funcs()]
